@@ -57,3 +57,7 @@ Import the database.sql file into your MySQL/phpMyAdmin database.
 Configure your database connection in includes/db.php.
 Place the project files in your web server's root directory (e.g., htdocs for XAMPP).
 Navigate to login.php in your browser and register the first Admin account. Subsequent admin registrations will be disabled automatically.
+
+# Login_ Access
+Delete Admin record in the DATABASE, so you can Register yours (It can only be register once)
+You can further register Students and Cordinator
