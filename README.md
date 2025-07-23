@@ -52,7 +52,7 @@ Database: MySQL / MariaDB
 Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
 Server: Apache (designed for a XAMPP/LAMP environment)
 Setup & Installation
-Clone the repository: git clone https://github.com/Bity-Iju/eed-elearning.git
+Clone the repository: git clone [https://github.com/Bity-Iju/eed-elearning.git](https://github.com/Bity-Iju/EED-e-Learning-Platform)
 Import the database.sql file into your MySQL/phpMyAdmin database.
 Configure your database connection in includes/db.php.
 Place the project files in your web server's root directory (e.g., htdocs for XAMPP).
